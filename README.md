@@ -1,6 +1,7 @@
-# 💫 About Me:
+# 💫 Hi there, I'm Jayrek
 
-With more than 9 years of expertise in crafting mobile applications for diverse platforms and domains, I am a Software Engineer currently employed at Fullspeed Technologies Inc. This leading software development company is renowned for delivering innovative solutions to businesses and organizations. My key skills encompass Flutter, Kotlin, Firebase, and API integration, demonstrated through the successful completion of numerous projects. I am deeply enthusiastic about developing user-friendly, scalable, and dependable applications that fulfill the requirements and expectations of clients and users.<br>
+With more than 9 years of expertise in crafting mobile applications for diverse platforms and domains, I am a Software Engineer currently employed at ![Fullspeed Technologies Inc.](https://www.fullspeedtechnologies.com/) <br>
+My key skills encompass Flutter, Kotlin, Firebase, and API integration, demonstrated through the successful completion of numerous projects. I am deeply enthusiastic about developing user-friendly, scalable, and dependable applications that fulfill the requirements and expectations of clients and users.<br>
 
 # 💻 Tech Stack:
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) 

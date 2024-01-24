@@ -1,6 +1,6 @@
 # 💫 Hi there, I'm Jayrek
 
-With more than 9 years of expertise in crafting mobile applications for diverse platforms and domains, I am a Software Engineer currently employed at ![Fullspeed Technologies Inc.](https://www.fullspeedtechnologies.com/) <br>
+With more than 9 years of expertise in crafting mobile applications for diverse platforms and domains, I am a Software Engineer currently employed at [Fullspeed Technologies Inc.](https://www.fullspeedtechnologies.com/) <br>
 My key skills encompass Flutter, Kotlin, Firebase, and API integration, demonstrated through the successful completion of numerous projects. I am deeply enthusiastic about developing user-friendly, scalable, and dependable applications that fulfill the requirements and expectations of clients and users.<br>
 
 # 💻 Tech Stack:

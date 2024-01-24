@@ -8,7 +8,6 @@ I am passionate about creating user-friendly, scalable, and reliable apps that m
 
 Skills: Android / Kotlin / Flutter / Dart / Firebase
 
-- 🔭 I’m currently working on this page. 
 
 
 

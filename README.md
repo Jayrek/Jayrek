@@ -1,5 +1,11 @@
 <h1>Hi there👋, I'm Jayrek</h1>
-<p>With more than 9 years of expertise in crafting mobile applications for diverse platforms and domains, I am a Software Engineer currently employed at <a href="https://www.fullspeedtechnologies.com/">Fullspeed Technologies Inc</a>. <br><br> My key skills encompass Flutter, Kotlin, Firebase, and API integration, demonstrated through the successful completion of numerous projects. I am deeply enthusiastic about developing user-friendly, scalable, and dependable applications that fulfill the requirements and expectations of clients and users.<br></p>
+<p>As a seasoned mobile developer with over 9 years of experience, I have delivered various applications for different platforms and domains. My core competencies include Flutter, Kotlin, Firebase, and API integration, which I have applied to numerous projects with great results. I am passionate about creating applications that are user-friendly, scalable, and reliable, and that meet the needs and expectations of clients and users.<br></p>
+
+- 🌱 I’m currently focusing on getting **LinkedIn Certification Courses**
+
+- 👨‍💻 All of my projects are available at [jayrek.github.io](https://jayrek.github.io)
+
+- 📫 Just send a pm here 👉 **jrektabasa@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayrek&label=Profile%20views&color=0e75b6&style=flat" alt="jayrek" /> </p>
 

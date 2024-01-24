@@ -1,14 +1,15 @@
-### Hi there 👋
+### Hi there 👋, Jayrek
+#### Android Developer | Flutter Developer
+I am Software Engineer with over 9 years of experience in developing mobile applications for various domains and platforms. I currently work at Fullspeed Technologies Inc., a leading software development company that provides innovative solutions for businesses and organizations.
 
-**Jayrek/Jayrek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My core competencies include Flutter, Kotlin, Firebase, and API integration. I have successfully delivered multiple projects using these technologies,
 
-Here are some ideas to get you started:
+I am passionate about creating user-friendly, scalable, and reliable apps that meet the needs and expectations of the clients and users.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Skills: Android / Kotlin / Flutter / Dart / Firebase
+
+- 🔭 I’m currently working on this page. 
+
+
+
+

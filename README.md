@@ -1,7 +1,7 @@
 <h1>Hi there👋, I'm Jayrek</h1>
 <p>As a seasoned mobile developer with over 9 years of experience, I have delivered various applications for different platforms and domains. My core competencies include Flutter, Kotlin, Firebase, and API integration, which I have applied to numerous projects with great results. I am passionate about creating applications that are user-friendly, scalable, and reliable, and that meet the needs and expectations of clients and users.<br></p>
 
-- 🌱 I’m currently focusing on getting **LinkedIn Certification Courses**
+- 🌱 I’m currently employed at [FullSpeed Technologies Inc](https://www.fullspeedtechnologies.com/).
 
 - 👨‍💻 All of my projects are available at [jayrek.github.io](https://jayrek.github.io)
 

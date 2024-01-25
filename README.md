@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [jayrek.github.io](https://jayrek.github.io)
 
-- 📫 Just send a pm here 👉 **jrektabasa@gmail.com**
+- 📫 Just send me DM here 👉 **jrektabasa@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayrek&label=Profile%20views&color=0e75b6&style=flat" alt="jayrek" /> </p>
 

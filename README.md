@@ -42,3 +42,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayrek&show_icons=true&locale=en&layout=compact" alt="jayrek" /></p>
 <br>
 <hr style="border: 1px; margin: 20px 0;">
+
+<!-- source:-->
+<!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
